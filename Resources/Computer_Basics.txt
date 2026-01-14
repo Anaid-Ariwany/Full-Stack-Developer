@@ -1,0 +1,9 @@
+Computer basics link: https://edu.gcfglobal.org/en/computerbasics/basic-parts-of-a-computer/1/ 
+
+Operating systems link: https://edu.gcfglobal.org/en/computerbasics/understanding-applications/1/ 
+
+Applications link: https://edu.gcfglobal.org/en/computerbasics/understanding-applications/1/ 
+
+Open & closed source softwares link: https://edu.gcfglobal.org/en/basic-computer-skills/open-source-vs-closed-source-software/1/ 
+
+Command Line Interface basics link: https://www.softcover.io/read/fc6c09de/unix_commands/basics#sec-basics-ls 
