@@ -19,6 +19,33 @@ Click any of the images below to view the readme and live demo of the project.
 <table align="center">
   <tr>
     <td align="center" style="padding: 16px;">
+      <a href="/Frontend/HTML/Projects/Recipes">
+        <img 
+          src="/Frontend/HTML/Projects/Recipes/image.png"
+          width="420"
+          style="border-radius: 14px;"
+          alt="Recipes"
+        />
+      </a>
+      <br /><br />
+      <strong>Recipes</strong>
+    </td>
+    <td align="center" style="padding: 16px;">
+      <a href="/Frontend/HTML/Projects/Marathon">
+        <img 
+          src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png"
+          width="420"
+          style="border-radius: 14px;"
+          alt="Marathon"
+        />
+      </a>
+      <br /><br />
+      <strong>Marathon Form</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="padding: 16px;">
       <a href="/Frontend/HTML/Projects/singlePageCV">
         <img 
           src="/Frontend/HTML/Projects/singlePageCV/cvWebsite.png"
@@ -28,23 +55,8 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong>Single-Page CV</strong>
+      <strong>Single Page CV</strong>
     </td>
-    <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/BasicHTMLWebsite">
-        <img 
-          src="/Frontend/HTML/Projects/BasicHTMLWebsite/website.png"
-          width="420"
-          style="border-radius: 14px;"
-          alt="Basic HTML Website"
-        />
-      </a>
-      <br /><br />
-      <strong>Basic HTML Website</strong>
-    </td>
-  </tr>
-
-  <tr>
     <td align="center" style="padding: 16px;">
       <a href="/Frontend/HTML/Projects/PersonalPortfolio">
         <img 
@@ -56,18 +68,6 @@ Click any of the images below to view the readme and live demo of the project.
       </a>
       <br /><br />
       <strong>Personal Portfolio</strong>
-    </td>
-    <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/Changelog">
-        <img 
-          src="/Frontend/HTML/Projects/Changelog/changelog.png"
-          width="420"
-          style="border-radius: 14px;"
-          alt="Changelog Component"
-        />
-      </a>
-      <br /><br />
-      <strong>Changelog Component</strong>
     </td>
   </tr>
 </table>
