@@ -13,7 +13,7 @@ Click any of the images below to view the readme and live demo of the project.
 
 <table align="left">
   <tr>
-    <td align="center" style="padding: 16px; border-radius: 20px;">
+    <td align="center" style="padding: 16px;">
       <a href="/Frontend/HTML/Projects/Recipes">
         <img 
           src="/Frontend/HTML/Projects/Recipes/image.png"
