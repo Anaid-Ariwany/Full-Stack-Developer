@@ -12,11 +12,11 @@ Click any of the images below to view the readme and live demo of the project.
 
 ### HTML Projects
 
-<p align="center">
+<p align="left">
   Click any of the images below to view the readme and live demo of the project.
 </p>
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" style="padding: 16px;">
       <a href="/Frontend/HTML/Projects/Recipes">
