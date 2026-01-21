@@ -13,11 +13,11 @@ Click any of the images below to view the readme and live demo of the project.
 
 <table align="left">
   <tr>
-    <td align="center" style="padding: 16px;">
+    <td align="center" style="padding: 16px; border-radius: 20px;">
       <a href="/Frontend/HTML/Projects/Recipes">
         <img 
           src="/Frontend/HTML/Projects/Recipes/image.png"
-          width="420" border-radius:20px;
+          width="420"
           style="border-radius: 20px;"
           alt="Recipes"
         />
@@ -25,7 +25,7 @@ Click any of the images below to view the readme and live demo of the project.
       <br /><br />
       <strong>Recipes</strong>
     </td>
-    <td align="center" style="padding: 16px;">
+    <td align="center" style="padding: 16px; border-radius: 20px;">
       <a href="/Frontend/HTML/Projects/Marathon">
         <img 
           src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png"
