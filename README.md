@@ -13,10 +13,10 @@ Click any of the images below to view the readme and live demo of the project.
 ### HTML Projects
 <p align="left">
   <a href='/Frontend/HTML/Projects/Recipes'>
-    <img height="48%" src="/Frontend/HTML/Projects/Recipes/image.png" alt="recipe website" style="border-radius: 15px;"/> Recipes
+    <img width="48%" src="/Frontend/HTML/Projects/Recipes/image.png" alt="recipe website" style="border-radius: 15px;"/> Recipes
   </a>
   <a href='/Frontend/HTML/Projects/Marathon'>
-    <img height="48%" src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png" alt="marathon website" style="border-radius: 15px;"/> Marathon Form
+    <img width="48%" src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png" alt="marathon website" style="border-radius: 15px;"/> Marathon Form
   </a>
 </p>
 
