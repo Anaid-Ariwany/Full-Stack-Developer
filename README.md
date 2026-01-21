@@ -8,13 +8,8 @@ This repository contains Full-Stack projects built following the [theodinproject
 [HTML Recipe Website](https://www.theodinproject.com/lessons/foundations-recipes#assignment), [HTML Single-Page CV Website](https://roadmap.sh/projects/basic-html-website)
 
 
-Click any of the images below to view the readme and live demo of the project.
-
 ### HTML Projects
-
-<p align="left">
-  Click any of the images below to view the readme and live demo of the project.
-</p>
+Click any of the images below to view the readme and live demo of the project.
 
 <table align="left">
   <tr>
@@ -22,8 +17,8 @@ Click any of the images below to view the readme and live demo of the project.
       <a href="/Frontend/HTML/Projects/Recipes">
         <img 
           src="/Frontend/HTML/Projects/Recipes/image.png"
-          width="420"
-          style="border-radius: 14px;"
+          width="420" border-radius:20px;
+          style="border-radius: 20px;"
           alt="Recipes"
         />
       </a>
@@ -35,7 +30,7 @@ Click any of the images below to view the readme and live demo of the project.
         <img 
           src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png"
           width="420"
-          style="border-radius: 14px;"
+          style="border-radius: 20px;"
           alt="Marathon"
         />
       </a>
@@ -50,7 +45,7 @@ Click any of the images below to view the readme and live demo of the project.
         <img 
           src="/Frontend/HTML/Projects/singlePageCV/cvWebsite.png"
           width="420"
-          style="border-radius: 14px;"
+          style="border-radius: 20px;"
           alt="Single Page CV"
         />
       </a>
@@ -62,7 +57,7 @@ Click any of the images below to view the readme and live demo of the project.
         <img 
           src="/Frontend/HTML/Projects/PersonalPortfolio/portfolio.png"
           width="420"
-          style="border-radius: 14px;"
+          style="border-radius: 20px;"
           alt="Personal Portfolio"
         />
       </a>
