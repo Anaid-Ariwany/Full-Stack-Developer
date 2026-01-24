@@ -6,6 +6,7 @@ This repository contains Full-Stack projects built following the [theodinproject
 ## Projects List 
 
 [HTML Recipe Website](https://www.theodinproject.com/lessons/foundations-recipes#assignment), [HTML Single-Page CV Website](https://roadmap.sh/projects/basic-html-website)
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),
 
 
 ### HTML Projects
@@ -53,16 +54,16 @@ Click any of the images below to view the readme and live demo of the project.
       <strong>Single Page CV</strong>
     </td>
     <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/PersonalPortfolio">
+      <a href="/Frontend/HTML/Projects/basicHTMLWebsite">
         <img 
-          src="/Frontend/HTML/Projects/PersonalPortfolio/portfolio.png"
+          src="/Frontend/HTML/Projects/basicHTMLWebsite/websiteImage.png"
           width="420"
           style="border-radius: 20px;"
-          alt="Personal Portfolio"
+          alt="basic HTML website"
         />
       </a>
       <br /><br />
-      <strong>Personal Portfolio</strong>
+      <strong>Basic HTML Website</strong>
     </td>
   </tr>
 </table>
