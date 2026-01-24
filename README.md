@@ -6,7 +6,8 @@ This repository contains Full-Stack projects built following the [theodinproject
 ## Projects List 
 
 [HTML Recipe Website](https://www.theodinproject.com/lessons/foundations-recipes#assignment), [HTML Single-Page CV Website](https://roadmap.sh/projects/basic-html-website)
-[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),
+
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 
 
 ### HTML Projects
