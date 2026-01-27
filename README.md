@@ -7,7 +7,7 @@ This repository contains Full-Stack projects built following the [theodinproject
 
 [HTML Recipe Website](https://www.theodinproject.com/lessons/foundations-recipes#assignment), [HTML Single-Page CV Website](https://roadmap.sh/projects/basic-html-website)
 
-[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 
 ### HTML Projects
@@ -16,9 +16,9 @@ Click any of the images below to view the readme and live demo of the project.
 <table align="left">
   <tr>
     <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/Recipes">
+      <a href="">
         <img 
-          src="/Frontend/HTML/Projects/Recipes/image.png"
+          src=""
           width="420"
           style="border-radius: 20px;"
           alt="Recipes"
@@ -28,9 +28,9 @@ Click any of the images below to view the readme and live demo of the project.
       <strong>Recipes</strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 20px;">
-      <a href="/Frontend/HTML/Projects/Marathon">
+      <a href="">
         <img 
-          src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png"
+          src=""
           width="420"
           style="border-radius: 20px;"
           alt="Marathon"
@@ -93,3 +93,17 @@ Click any of the images below to view the readme and live demo of the project.
 </table>
 
 ### HTML & CSS Projects
+
+
+Click any of the images below to view the readme and live demo of the project.
+
+<p align="left">
+  <a href='/Frontend/HTML/Projects/Recipes/'>
+    <img width="48%" src="/Frontend/HTML/Projects/Recipes/image.png" alt="Recipes" style="border-radius: 1rem;"/>
+  </a>
+  <a href='/Frontend/HTML/Projects/Marathon/'>
+    <img width="48%" src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png" alt="Marathon" style="border-radius: 1rem;"/>
+  </a>
+</p>
+
+
