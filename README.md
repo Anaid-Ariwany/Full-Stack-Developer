@@ -25,7 +25,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="/Frontend/HTML/Projects/Recipes/">Recipes</a></strong>
+      <strong><a href="[/Frontend/HTML/Projects/Recipes/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes)">Recipes</a></strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="/Frontend/HTML/Projects/Marathon/">
@@ -37,7 +37,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="/Frontend/HTML/Projects/Marathon/">Marathon Form</a></strong>
+      <strong><a href="[/Frontend/HTML/Projects/Marathon/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Marathon)">Marathon Form</a></strong>
     </td>
   </tr>
 
@@ -52,7 +52,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="/Frontend/HTML/Projects/singlePageCV/">Single Page CV</a></strong>
+      <strong><a href="[/Frontend/HTML/Projects/singlePageCV/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV)">Single Page CV</a></strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="/Frontend/HTML/Projects/basicHTMLWebsite/">
@@ -64,7 +64,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="/Frontend/HTML/Projects/basicHTMLWebsite/">Basic HTML Website</a></strong>
+      <strong><a href="[/Frontend/HTML/Projects/basicHTMLWebsite/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/basicHTMLWebsite)">Basic HTML Website</a></strong>
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="/Frontend/CSS/Projects/LandingPage/">Landing Page</a></strong>
+      <strong><a href="[/Frontend/CSS/Projects/LandingPage/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/CSS/Projects/LandingPage)">Landing Page</a></strong>
     </td>
 
   </tr>
