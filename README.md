@@ -71,5 +71,25 @@ Click any of the images below to view the readme and live demo of the project.
 
 
 ### CSS Projects
+Click any of the images below to view the readme and live demo of the project.
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 16px;">
+      <a href="/Frontend/CSS/Projects/LandingPage">
+        <img 
+          src="/Frontend/CSS/Projects/LandingPage/websiteImage.png"
+          width="420"
+          style="border-radius: 20px;"
+          alt="Landing Page Image"
+        />
+      </a>
+      <br /><br />
+      <strong>Landing Page Project</strong>
+    </td>
+
+  </tr>
+
+</table>
 
 ### HTML & CSS Projects
