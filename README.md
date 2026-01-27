@@ -15,57 +15,56 @@ Click any of the images below to view the readme and live demo of the project.
 
 <table align="left">
   <tr>
-    <td align="center" style="padding: 16px;">
-      <a href="[/Frontend/HTML/Projects/Recipes/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes)">
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes">
         <img 
           src="/Frontend/HTML/Projects/Recipes/image.png"
-          width="420"
-          style="border-radius: 1rem;"
+          height="420"
+          style="border-radius: 5rem;"
           alt="Recipes"
         />
       </a>
       <br /><br />
-      <strong><a href="/Frontend/HTML/Projects/Recipes/">Recipes</a></strong>
+      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes">Recipes</a></strong>
     </td>
-    <td align="center" style="padding: 16px; border-radius: 20px;">
-      <a href="/Frontend/HTML/Projects/Marathon/">
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Marathon">
         <img 
           src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png"
           width="420"
-          style="border-radius: 20px;"
+          style="border-radius: 5rem;"
           alt="Marathon"
         />
       </a>
       <br /><br />
-      <strong><a href="Frontend/HTML/Projects/Marathon/">Marathon Form</a></strong>
+      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Marathon">Marathon Form</a></strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/singlePageCV/">
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV">
         <img 
           src="/Frontend/HTML/Projects/singlePageCV/cvWebsite.png"
           width="420"
-          style="border-radius: 20px;"
+          style="border-radius: 5rem;"
           alt="Single Page CV"
         />
       </a>
       <br /><br />
-      <strong><a href="Frontend/HTML/Projects/Marathon/">Single Page CV</a></strong>
-      <strong></strong>
+      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV">Single Page CV</a></strong>
     </td>
-    <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/basicHTMLWebsite">
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/basicHTMLWebsite">
         <img 
           src="/Frontend/HTML/Projects/basicHTMLWebsite/websiteImage.png"
           width="420"
-          style="border-radius: 20px;"
+          style="border-radius: 5rem;"
           alt="basic HTML website"
         />
       </a>
       <br /><br />
-      <strong>Basic HTML Website</strong>
+      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV">Basic HTML Website</a></strong>
     </td>
   </tr>
 </table>
@@ -76,17 +75,17 @@ Click any of the images below to view the readme and live demo of the project.
 
 <table align="left">
   <tr>
-    <td align="center" style="padding: 16px;">
-      <a href="/Frontend/CSS/Projects/LandingPage">
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/CSS/Projects/LandingPage">
         <img 
           src="/Frontend/CSS/Projects/LandingPage/websiteImage.png"
           width="420"
-          style="border-radius: 20px;"
+          style="border-radius: 5rem;"
           alt="Landing Page Image"
         />
       </a>
       <br /><br />
-      <strong>Landing Page Project</strong>
+      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/CSS/Projects/LandingPage">Basic HTML Website</a></strong>
     </td>
 
   </tr>
