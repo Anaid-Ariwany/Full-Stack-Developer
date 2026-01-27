@@ -16,19 +16,19 @@ Click any of the images below to view the readme and live demo of the project.
 <table align="left">
   <tr>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes">
+      <a href="/Frontend/HTML/Projects/Recipes/">
         <img 
           src="/Frontend/HTML/Projects/Recipes/image.png"
-          height="420"
+          width="420"
           style="border-radius: 5rem;"
           alt="Recipes"
         />
       </a>
       <br /><br />
-      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes">Recipes</a></strong>
+      <strong><a href="/Frontend/HTML/Projects/Recipes/">Recipes</a></strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Marathon">
+      <a href="/Frontend/HTML/Projects/Marathon/">
         <img 
           src="/Frontend/HTML/Projects/Marathon/marathonWebsite.png"
           width="420"
@@ -37,13 +37,13 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Marathon">Marathon Form</a></strong>
+      <strong><a href="/Frontend/HTML/Projects/Marathon/">Marathon Form</a></strong>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV">
+      <a href="/Frontend/HTML/Projects/singlePageCV/">
         <img 
           src="/Frontend/HTML/Projects/singlePageCV/cvWebsite.png"
           width="420"
@@ -52,10 +52,10 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV">Single Page CV</a></strong>
+      <strong><a href="/Frontend/HTML/Projects/singlePageCV/">Single Page CV</a></strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/basicHTMLWebsite">
+      <a href="/Frontend/HTML/Projects/basicHTMLWebsite/">
         <img 
           src="/Frontend/HTML/Projects/basicHTMLWebsite/websiteImage.png"
           width="420"
@@ -64,19 +64,19 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/singlePageCV">Basic HTML Website</a></strong>
+      <strong><a href="/Frontend/HTML/Projects/basicHTMLWebsite/">Basic HTML Website</a></strong>
     </td>
   </tr>
 </table>
 
 
-### CSS Projects
+### HTML & CSS Projects
 Click any of the images below to view the readme and live demo of the project.
 
 <table align="left">
   <tr>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/CSS/Projects/LandingPage">
+      <a href="/Frontend/CSS/Projects/LandingPage/">
         <img 
           src="/Frontend/CSS/Projects/LandingPage/websiteImage.png"
           width="420"
@@ -85,7 +85,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong><a href="https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/CSS/Projects/LandingPage">Basic HTML Website</a></strong>
+      <strong><a href="/Frontend/CSS/Projects/LandingPage/">Landing Page</a></strong>
     </td>
 
   </tr>
