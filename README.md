@@ -13,13 +13,10 @@ This repository contains Full-Stack projects built following the [theodinproject
 ### HTML Projects
 Click any of the images below to view the readme and live demo of the project.
 
-
-
-### HTML & CSS Projects
 <table align="left">
   <tr>
     <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/Recipes/">
+      <a href="[/Frontend/HTML/Projects/Recipes/](https://github.com/Anaid-Ariwany/Full-Stack-Developer/tree/main/Frontend/HTML/Projects/Recipes)">
         <img 
           src="/Frontend/HTML/Projects/Recipes/image.png"
           width="420"
@@ -28,7 +25,7 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong>Recipes</strong>
+      <strong><a href="/Frontend/HTML/Projects/Recipes/">Recipes</a></strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 20px;">
       <a href="/Frontend/HTML/Projects/Marathon/">
@@ -40,13 +37,13 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong>Marathon Form</strong>
+      <strong><a href="Frontend/HTML/Projects/Marathon/">Marathon Form</a></strong>
     </td>
   </tr>
 
   <tr>
     <td align="center" style="padding: 16px;">
-      <a href="/Frontend/HTML/Projects/singlePageCV">
+      <a href="/Frontend/HTML/Projects/singlePageCV/">
         <img 
           src="/Frontend/HTML/Projects/singlePageCV/cvWebsite.png"
           width="420"
@@ -55,7 +52,8 @@ Click any of the images below to view the readme and live demo of the project.
         />
       </a>
       <br /><br />
-      <strong>Single Page CV</strong>
+      <strong><a href="Frontend/HTML/Projects/Marathon/">Single Page CV</a></strong>
+      <strong></strong>
     </td>
     <td align="center" style="padding: 16px;">
       <a href="/Frontend/HTML/Projects/basicHTMLWebsite">
